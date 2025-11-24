@@ -31,28 +31,3 @@
 
 
 ---
-
-
-## 👨‍💻 Projects & Links
-
-
-- Portfolio: *(thêm link nếu có)*
-- Blog: *(thêm link nếu có)*
-
-
----
-
-
-## 🐍 Contribution Snake
-
-
-Sử dụng GitHub Action để generate ảnh contribution-snake và push vào branch `output`. Sau khi action chạy, thêm đoạn sau vào README để hiển thị con rắn:
-
-
-```md
-## 🐍 Contribution Snake
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kietuanphuoc84tv/kietuanphuoc84tv/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kietuanphuoc84tv/kietuanphuoc84tv/output/github-contribution-grid-snake.svg">
-<img alt="snake" src="https://raw.githubusercontent.com/kietuanphuoc84tv/kietuanphuoc84tv/output/github-contribution-grid-snake.svg">
-</picture>
