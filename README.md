@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <img align="right" src="https://visitor-badge.laobi.icu/?username=kieutanphuoc84tv&repo=kieutanphuoc84tv&style=for-the-badge&label=Visitors&color=0e9e6e" />
 
 <h1 align="center">
@@ -11,7 +9,7 @@
 <img src="https://github.com/kieutanphuoc84tv/kieutanphuoc84tv/blob/main/media/banner.png?raw=true" width="100%"/>
 
 ## 🔥 Tech Arsenal
-
+```text
 Python       ████████████████████████████ 98%
 Node.js      ███████████████████████████░ 95%
 NestJS       █████████████████████████░░░ 92%
