@@ -1,41 +1,36 @@
-# 👋 Still breathing PHP code 🤢
+# .github/workflows/snake.yml
+name: Generate Snake
 
+on:
+  schedule:
+    # Chạy vào 00:00 UTC mỗi ngày
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
-<p align="center">
-<img src="/mnt/data/042360e8-0538-4f3f-af34-b5fe54c07989.png" alt="profile-screenshot" width="600" />
-</p>
-
-
-**Backend Developer • Python & Node.js • Building APIs faster than you can say "Trà Vinh"**
-
-
----
-
-
-## 🔥 Tech Arsenal
-
-
-- **Python** • **Node.js** • **PHP**
-- **Docker** • **MongoDB**
-- **HTML / CSS / JavaScript**
-
-
-| Skill | Level |
-| --- | ---: |
-| Python | 98% |
-| Node.js | 95% |
-| NestJS | 92% |
-| MongoDB | 90% |
-| Docker | 80% |
-| PHP | 70% |
-
-
----
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kietuanphuoc84tv/kietuanphuoc84tv/dist/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kietuanphuoc84tv/kietuanphuoc84tv/dist/github-contribution-grid-snake.svg">
-  <img alt="snake" src="https://raw.githubusercontent.com/kietuanphuoc84tv/kietuanphuoc84tv/dist/github-contribution-grid-snake.svg">
-</picture>
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    # Vẫn giữ quyền truy cập
+    permissions: 
+      contents: write
+      
+    steps:
+      - uses: actions/checkout@v2
+      
+      # GỌI ACTION VÀ TẠO FILE SVG
+      - uses: platane/snk@v3 # <--- CHUYỂN SANG DÙNG @v3 HOẶC @v2
+        id: snake-gif
+        with:
+          github_user_name: kietuanphuoc84tv
+          # Gộp hai outputs lại, dùng cú pháp cũ nhưng đảm bảo action nhận diện
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            
+      # Đẩy các file SVG đã tạo lên branch 'dist'
+      - uses: crazy-max/ghaction-github-pages@v2
+        with:
+          target_branch: dist
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
