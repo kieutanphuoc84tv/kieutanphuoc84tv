@@ -11,13 +11,10 @@
 <img src="https://github.com/kieutanphuoc84tv/kieutanphuoc84tv/blob/main/media/banner.png?raw=true" width="100%"/>
 
 ## 🔥 Tech Arsenal
-```text
+
 Python       ████████████████████████████ 98%
 Node.js      ███████████████████████████░ 95%
 NestJS       █████████████████████████░░░ 92%
 MongoDB      ████████████████████████░░░░ 90%
 Docker       ████████████████████░░░░░░░░ 80%
 PHP          ████████████████░░░░░░░░░░░░ 70%
-
-
-https://skillicons.dev/icons?i=python,nodejs,nestjs,mongodb,express,fastapi,flask,docker,redis,postgres,git,github,postman,vscode,linux&perline=10
