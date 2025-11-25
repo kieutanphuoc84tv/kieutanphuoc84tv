@@ -1,7 +1,5 @@
 <div align="center">
-    <marquee direction="left" scrollamount="6" style="color:#007ACC; font-size:18px; font-weight:bold; border-bottom: 2px solid #007ACC; padding-bottom: 5px;">
-        🌟 Chào mừng đến với hồ sơ của Kiều Tấn Phước! Hiện tại tôi đang tìm kiếm cơ hội hợp tác thú vị! Kết nối với tôi qua các kênh xã hội bên dưới! 🚀
-    </marquee>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7DF1E&width=435&lines=DEVELOPER+FULLSTACK;DESIGNER+ĐA+PHƯƠNG+TIỆN;CHÀO+MỪNG+BẠN+GHÉ+THĂM!" alt="Typing SVG">
 </div>
 
 ## 🌐 Socials:
