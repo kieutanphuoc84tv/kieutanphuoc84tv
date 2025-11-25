@@ -1,4 +1,8 @@
 
+<marquee direction="left">
+    **Xin Chào! Cảm ơn bạn đã ghé thăm hồ sơ GitHub của tôi!**
+</marquee>
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1BeigyofEJ/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/qiaojinfu?igsh=azk4cng4M2dmbjQ3) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/2RY5jmNAs) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@azaria_risfin?_r=1&_t=ZS-91f3eWXmzGT) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kieutanphuoctv2004@gmail.com) 
 
