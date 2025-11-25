@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7DF1E&width=435&lines=DEVELOPER+FULLSTACK;DESIGNER+ĐA+PHƯƠNG+TIỆN;CHÀO+MỪNG+BẠN+GHÉ+THĂM!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7DF1E&width=435&lines=;DESIGNER+ĐA+PHƯƠNG+TIỆN;CHÀO+MỪNG+BẠN+GHÉ+THĂM!" alt="Typing SVG">
 </div>
 
 ## 🌐 Socials:
