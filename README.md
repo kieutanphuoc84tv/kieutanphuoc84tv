@@ -37,7 +37,7 @@
 | 🚀 **UI/UX:** Tối ưu trải nghiệm người dùng | 📅 **Tốt nghiệp dự kiến:** 2026 |
 
 </div>
----
+
 
 ### 🐍 My Contributions
 <div align="center">
