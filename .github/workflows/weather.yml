@@ -2,20 +2,22 @@ name: Weather Forecast
 
 on:
   schedule:
-    - cron: '0 */4 * * *' # Cập nhật mỗi 4 tiếng
+    - cron: '0 */4 * * *' # Chạy mỗi 4 tiếng
   workflow_dispatch:
 
 jobs:
   update-readme:
-    name: Update Weather
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: duy/weather-readme@master
+      - name: Update Weather
+        # Sử dụng đúng Action của huantt
+        uses: huantt/weather-forecast@v1.0.5
         with:
-          # Địa điểm: Trà Vinh
-          city: "Tra Vinh, Vietnam" 
-          # Token thời tiết (đã cài ở bước 2)
-          api_key: ${{ secrets.OPENWEATHERMAP_KEY }}
-          units: metric # Độ C
-          lang: vi      # Tiếng Việt
+          city: "Tra Vinh"
+          days: 7
+          weather-api-key: ${{ secrets.OPENWEATHERMAP_KEY }}
+          # File mẫu để nó điền thời tiết vào (Xem bước 2)
+          template-file: 'README.md.template'
+          # File kết quả sẽ là README.md chính
+          out-file: 'README.md'
