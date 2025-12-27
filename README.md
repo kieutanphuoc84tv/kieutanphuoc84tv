@@ -37,6 +37,12 @@
 | 🚀 **UI/UX:** Tối ưu trải nghiệm người dùng | 📅 **Tốt nghiệp dự kiến:** 2026 |
 
 </div>
+---
+
+### 🐍 My Contributions
+<div align="center">
+  <img src="https://github.com/kieutanphuoc84tv/kieutanphuoc84tv/raw/output/github-contribution-grid-snake.svg" />
+</div>
 
 ---
 
@@ -78,14 +84,6 @@
 </div>
 
 ---
-
-### 🐍 My Contributions
-<div align="center">
-  <img src="https://github.com/kieutanphuoc84tv/kieutanphuoc84tv/raw/output/github-contribution-grid-snake.svg" />
-</div>
-
----
-
 ### 📊 GitHub Metrics
 <div align="center">
   <img src="https://github.com/kieutanphuoc84tv/kieutanphuoc84tv/raw/main/github-metrics.svg" width="80%" />
