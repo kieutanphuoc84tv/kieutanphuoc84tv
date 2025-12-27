@@ -88,5 +88,14 @@
 <div align="center">
   <img src="https://github.com/kieutanphuoc84tv/kieutanphuoc84tv/raw/main/github-metrics.svg" width="80%" />
 </div>
+---
+
+---
+### 🌤️ Dự Báo Thời Tiết Tại Trà Vinh
+{{ template "daily-table" .Weathers }}
+<div align="center">
+  <i>Cập nhật lần cuối: {{ .UpdatedAt }}</i>
+</div>
+
 
 
