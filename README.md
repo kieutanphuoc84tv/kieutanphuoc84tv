@@ -93,3 +93,11 @@
 
 ---
 ### 🌤️ Dự Báo Thời Tiết Tại Trà Vinh
+{{ range .Weathers }}
+| {{ .Date }} | {{ .Condition }} | {{ .Temperature }} | {{ .Wind }} |
+|---|---|---|---|
+{{ end }}
+<div align="center">
+  <i>Cập nhật lần cuối: {{ .UpdatedAt }}</i>
+</div>
+---
