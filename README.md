@@ -88,7 +88,7 @@
 
 ### 📊 GitHub Metrics
 <div align="center">
-  <img src="https://github.com/kieutanphuoc84tv/kieutanphuoc84tv/raw/main/github-metrics.svg" width="100%" />
+  <img src="https://github.com/kieutanphuoc84tv/kieutanphuoc84tv/raw/main/github-metrics.svg" width="80%" />
 </div>
 
 ---
