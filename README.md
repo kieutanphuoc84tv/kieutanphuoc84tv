@@ -26,7 +26,7 @@
   Mình kết hợp tư duy thẩm mỹ của thiết kế với tư duy logic của lập trình để tạo ra những sản phẩm hoàn thiện nhất.
 </div>
 
-<br/>
+---
 
 <div align="center">
 
