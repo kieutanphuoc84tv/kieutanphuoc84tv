@@ -33,11 +33,11 @@ jobs:
           plugin_languages_limit: 8
           
           # Plugin 3: Thành tựu
-          plugin_achievements: yes
+          plugin_achievements: no
           plugin_achievements_display: compact
           
           # Plugin 4: Thói quen (Giờ giấc commit)
-          plugin_habits: yes
+          plugin_habits: no
           plugin_habits_from: 200
           plugin_habits_days: 14
           plugin_habits_facts: yes
