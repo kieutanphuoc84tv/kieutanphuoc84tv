@@ -1,0 +1,21 @@
+name: Weather Forecast
+
+on:
+  schedule:
+    - cron: '0 */4 * * *' # Cập nhật mỗi 4 tiếng
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update Weather
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: duy/weather-readme@master
+        with:
+          # Địa điểm: Trà Vinh
+          city: "Tra Vinh, Vietnam" 
+          # Token thời tiết (đã cài ở bước 2)
+          api_key: ${{ secrets.OPENWEATHERMAP_KEY }}
+          units: metric # Độ C
+          lang: vi      # Tiếng Việt
