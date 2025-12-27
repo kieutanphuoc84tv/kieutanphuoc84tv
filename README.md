@@ -93,6 +93,17 @@
 
 ---
 
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kieutanphuoc84tv&theme=dark&hide_border=true" alt="GitHub Streak" />
+
+  <br/> <br/>
+
+  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=true" alt="Random Dev Quote" />
+
+</div>
+---
+
 ### 💬 Quote Ngẫu Nhiên
 <div align="center">
   <i>"If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program."</i> <br/>
