@@ -86,14 +86,15 @@
 
 ---
 
-### 💬 Quote Ngẫu Nhiên
+### 📊 GitHub Metrics
 <div align="center">
-  <i>"If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program."</i> <br/>
-  <b>- Linus Torvalds</b>
+  <img src="https://github.com/kieutanphuoc84tv/kieutanphuoc84tv/blob/main/github-metrics.svg" width="100%" />
 </div>
 
 ---
 
+### 💬 Quote Ngẫu Nhiên
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kieutanphuoc84tv&show_icons=true&theme=dark&hide_border=true" />
+  <i>"If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program."</i> <br/>
+  <b>- Linus Torvalds</b>
 </div>
