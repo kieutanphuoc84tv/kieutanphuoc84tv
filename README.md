@@ -90,12 +90,5 @@
 </div>
 ---
 
----
-### 🌤️ Dự Báo Thời Tiết Tại Trà Vinh
-{{ template "daily-table" .Weathers }}
-<div align="center">
-  <i>Cập nhật lần cuối: {{ .UpdatedAt }}</i>
-</div>
-
 
 
