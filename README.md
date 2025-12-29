@@ -22,6 +22,7 @@
 ---
 
 ### 👨‍💻 Về Mình | About Me
+
 <div align="center">
   <p>
     Mình là một <b>Multimedia Designer</b> và <b>Web Developer</b>. <br/>
@@ -37,17 +38,18 @@
 
 <div align="center">
 
-| 🎯 Lĩnh vực | Focus Area | 🎓 Học vấn | Education |
-| :--- | :--- | :--- | :--- |
-| 💻 **Web Dev** | Full-stack (PHP, Node.js, Next.js) | 🏫 **Trường** | Tra Vinh University |
-| 🎨 **Multimedia** | Graphic Design, Video Editing | 📜 **Ngành** | Information Technology |
-| 🚀 **UI/UX** | User Experience Optimization | 📅 **Graduation** | Expected 2026 |
+| 🎯 Lĩnh vực       | Focus Area                         | 🎓 Học vấn        | Education              |
+| :---------------- | :--------------------------------- | :---------------- | :--------------------- |
+| 💻 **Web Dev**    | Full-stack (PHP, Node.js, Next.js) | 🏫 **Trường**     | Tra Vinh University    |
+| 🎨 **Multimedia** | Graphic Design, Video Editing      | 📜 **Ngành**      | Information Technology |
+| 🚀 **UI/UX**      | User Experience Optimization       | 📅 **Graduation** | Expected 2026          |
 
 </div>
 
 ---
 
 ### 🐍 My Contributions
+
 <div align="center">
   <img src="https://github.com/kieutanphuoc84tv/kieutanphuoc84tv/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
@@ -94,15 +96,20 @@
 ---
 
 ### 📊 GitHub Metrics
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kieutanphuoc84tv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kieutanphuoc84tv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="Languages" />
+  <a href="https://github.com/kieutanphuoc84tv">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kieutanphuoc84tv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="160" alt="Stats" />
+  </a>
+  <a href="https://github.com/kieutanphuoc84tv">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kieutanphuoc84tv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" height="160" alt="Languages" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kieutanphuoc84tv&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Streak Stats" />
+  <a href="https://github.com/kieutanphuoc84tv">
+    <img src="https://streak-stats.demolab.com/?user=kieutanphuoc84tv&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak Stats" />
+  </a>
 </div>
-
