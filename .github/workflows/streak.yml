@@ -4,11 +4,6 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
-    paths:
-      - '.github/workflows/streak.yml'
 
 jobs:
   build:
@@ -19,13 +14,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       
-      - name: Generate Streak Stats
-        uses: DenverCoder1/github-readme-streak-stats@main
-        with:
-          user: kieutanphuoc84tv
-          theme: radical
-          hide_border: true
-          output_file: streak-stats.svg
+      - name: Download Streak Stats SVG
+        run: |
+          curl -s "https://streak-stats.demolab.com/?user=kieutanphuoc84tv&theme=radical&hide_border=true" -o streak-stats.svg || echo "Failed to download"
+          if [ -s streak-stats.svg ]; then
+            echo "SVG downloaded successfully"
+          else
+            echo "SVG download failed, creating placeholder"
+            echo '<svg xmlns="http://www.w3.org/2000/svg" width="400" height="150"><rect fill="#141321" width="400" height="150"/><text x="200" y="75" fill="#fff" text-anchor="middle">Streak Stats Loading...</text></svg>' > streak-stats.svg
+          fi
           
       - name: Commit and Push
         run: |
