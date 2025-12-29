@@ -118,12 +118,3 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kieutanphuoc84tv&theme=radical&utcOffset=7" height="160" alt="Productive Time"/>
   
 </div>
-
-<br/>
-
-<div align="center">
-  
-  <!-- GitHub Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=kieutanphuoc84tv&theme=radical&no-frame=true&column=7" alt="GitHub Trophies"/>
-  
-</div>
