@@ -106,7 +106,17 @@
   
   <!-- GitHub Stats - All Time Commits -->
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kieutanphuoc84tv&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="All Time Stats"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kieutanphuoc84tv&layout=compact&theme=radical&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
+  
+  <br/><br/>
+  
+  <!-- GitHub 3D Profile Contrib - Top Languages by Commit -->
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph"/>
+  
+  <br/>
+  
+  <!-- 3D Contrib với Pie Chart - Hiển thị Top Languages -->
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="49%" alt="3D Profile Night View"/>
+  <img src="./profile-3d-contrib/profile-season-animate.svg" width="49%" alt="3D Profile Season Animate"/>
   
   <br/>
   
