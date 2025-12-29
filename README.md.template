@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/kieutanphuoc84tv/kieutanphuoc84tv/raw/output/github-contribution-grid-snake.svg" width="100%" alt="snake"/>
+  <img src="https://raw.githubusercontent.com/kieutanphuoc84tv/kieutanphuoc84tv/output/github-contribution-grid-snake.svg" width="100%" alt="snake"/>
 </div>
 
 ---
@@ -7,7 +7,6 @@
 ### 🛠 Tech Stack & Tools
 
 <div align="center">
-
   <img src="https://img.shields.io/badge/Affinity_Photo-7E4DD2?style=for-the-badge&logo=affinity-photo&logoColor=white" />
   <img src="https://img.shields.io/badge/Affinity_Designer-1B72BE?style=for-the-badge&logo=affinity-designer&logoColor=white" />
   <img src="https://img.shields.io/badge/Davinci_Resolve-121212?style=for-the-badge&logo=davinciresolve&logoColor=white" />
@@ -30,7 +29,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-
 </div>
 
 ---
@@ -38,20 +36,7 @@
 ### 📊 GitHub Metrics
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=kieutanphuoc84tv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  </a>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kieutanphuoc84tv&layout=compact&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
-<div align="center">
-  <br/>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kieutanphuoc84tv&theme=tokyonight&hide_border=true" />
-  </a>
+  <img src="https://raw.githubusercontent.com/kieutanphuoc84tv/kieutanphuoc84tv/main/github-metrics.svg" width="100%" />
 </div>
 
 ---
