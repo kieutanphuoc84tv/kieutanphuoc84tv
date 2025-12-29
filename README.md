@@ -96,22 +96,34 @@
 ---
 
 ### 📊 GitHub Metrics
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kieutanphuoc84tv&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=kieutanphuoc84tv&show_icons=true&theme=radical&hide_border=true" height="160" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kieutanphuoc84tv&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kieutanphuoc84tv&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages" />
-  </picture>
+  
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=kieutanphuoc84tv&style=for-the-badge&color=blue" alt="Profile Views"/>
+  
+  <br/><br/>
+  
+  <!-- GitHub Profile Summary Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kieutanphuoc84tv&theme=radical" alt="Profile Details"/>
+  
+  <br/>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kieutanphuoc84tv&theme=radical" height="160" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kieutanphuoc84tv&theme=radical" height="160" alt="Languages"/>
+  
+  <br/>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kieutanphuoc84tv&theme=radical" height="160" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kieutanphuoc84tv&theme=radical&utcOffset=7" height="160" alt="Productive Time"/>
+  
 </div>
 
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=kieutanphuoc84tv&theme=radical&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=kieutanphuoc84tv&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </picture>
+  
+  <!-- GitHub Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=kieutanphuoc84tv&theme=radical&no-frame=true&column=7" alt="GitHub Trophies"/>
+  
 </div>
