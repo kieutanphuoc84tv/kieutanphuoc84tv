@@ -96,20 +96,22 @@
 ---
 
 ### 📊 GitHub Metrics
-
 <div align="center">
-  <a href="https://github.com/kieutanphuoc84tv">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kieutanphuoc84tv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="160" alt="Stats" />
-  </a>
-  <a href="https://github.com/kieutanphuoc84tv">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kieutanphuoc84tv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" height="160" alt="Languages" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kieutanphuoc84tv&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kieutanphuoc84tv&show_icons=true&theme=radical&hide_border=true" height="160" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kieutanphuoc84tv&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kieutanphuoc84tv&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages" />
+  </picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/kieutanphuoc84tv">
-    <img src="https://streak-stats.demolab.com/?user=kieutanphuoc84tv&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak Stats" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=kieutanphuoc84tv&theme=radical&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=kieutanphuoc84tv&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </picture>
 </div>
