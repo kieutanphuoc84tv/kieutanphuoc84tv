@@ -114,12 +114,6 @@
   
   <br/>
   
-  <!-- 3D Contrib với Pie Chart - Hiển thị Top Languages -->
-  <img src="./profile-3d-contrib/profile-night-view.svg" width="49%" alt="3D Profile Night View"/>
-  <img src="./profile-3d-contrib/profile-season-animate.svg" width="49%" alt="3D Profile Season Animate"/>
-  
-  <br/>
-  
   <!-- GitHub Profile Summary Cards -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kieutanphuoc84tv&theme=radical" alt="Profile Details"/>
   
