@@ -123,4 +123,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kieutanphuoc84tv&theme=radical" height="160" alt="Most Commit Language"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kieutanphuoc84tv&theme=radical&utcOffset=7" height="160" alt="Productive Time"/>
   
+  <br/><br/>
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats-nine-amber.vercel.app/?user=kieutanphuoc84tv&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  
 </div>
