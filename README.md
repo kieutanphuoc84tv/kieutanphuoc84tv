@@ -104,6 +104,12 @@
   
   <br/><br/>
   
+  <!-- GitHub Stats - All Time Commits -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kieutanphuoc84tv&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="All Time Stats"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kieutanphuoc84tv&layout=compact&theme=radical&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
+  
+  <br/>
+  
   <!-- GitHub Profile Summary Cards -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kieutanphuoc84tv&theme=radical" alt="Profile Details"/>
   
@@ -116,5 +122,10 @@
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kieutanphuoc84tv&theme=radical" height="160" alt="Most Commit Language"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kieutanphuoc84tv&theme=radical&utcOffset=7" height="160" alt="Productive Time"/>
+  
+  <br/><br/>
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=kieutanphuoc84tv&theme=radical&hide_border=true" alt="GitHub Streak"/>
   
 </div>
