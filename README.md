@@ -127,9 +127,4 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kieutanphuoc84tv&theme=radical" height="160" alt="Most Commit Language"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kieutanphuoc84tv&theme=radical&utcOffset=7" height="160" alt="Productive Time"/>
   
-  <br/><br/>
-  
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kieutanphuoc84tv&theme=redical&hide_border=true&area=true" alt="GitHub Activity Graph"/>
-  
-</div>
+  <br/>
