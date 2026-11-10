@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=289EFA&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B+I'm+Kieu+Tan+Phuoc;Multimedia+Designer;Web+Developer;In+God+I+trust" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=289EFA&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B+I'm+Kieu+Tan+Phuoc;In+God+I+trust" alt="Typing SVG" />
   
   <p align="center">
     <b>Đam mê sáng tạo nội dung số và phát triển web</b><br/>
